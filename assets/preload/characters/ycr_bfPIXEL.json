@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-281,
+				-63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ScootMid Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				-142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ScootMid Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-227,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ScootMid Right"
+		},
+		{
+			"offsets": [
+				86,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ScootMid Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ScootMid Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NormalScoot",
+	"position": [
+		-200,
+		0
+	],
+	"healthicon": "thedeathiconbruhhh",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		194,
+		101
+	],
+	"camera_position": [
+		500,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

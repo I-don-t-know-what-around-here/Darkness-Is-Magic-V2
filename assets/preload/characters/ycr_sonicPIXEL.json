@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-208,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MidDash Idle"
+		},
+		{
+			"offsets": [
+				-251,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MidDash Up"
+		},
+		{
+			"offsets": [
+				-258,
+				-183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MidDash Right"
+		},
+		{
+			"offsets": [
+				-79,
+				-197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MidDash Left"
+		},
+		{
+			"offsets": [
+				-146,
+				-203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MidDash Down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ycr/encore/NormalDash",
+	"position": [
+		50,
+		-130
+	],
+	"healthicon": "ooooopixellooooo",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		219,
+		248
+	],
+	"camera_position": [
+		-200,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

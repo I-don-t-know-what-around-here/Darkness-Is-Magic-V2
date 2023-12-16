@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-199,
+				-311
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "MidphaseS Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				-242
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MidphaseS Left"
+		},
+		{
+			"offsets": [
+				-311,
+				-218
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MidphaseS Up"
+		},
+		{
+			"offsets": [
+				-270,
+				-257
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MidphaseS Right"
+		},
+		{
+			"offsets": [
+				-211,
+				-291
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MidphaseS Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/midphaseS",
+	"position": [
+		-200,
+		-300
+	],
+	"healthicon": "thedeathiconbruhhh",
+	"flip_x": true,
+	"healthbar_colors": [
+		168,
+		65,
+		133
+	],
+	"camera_position": [
+		320,
+		-100
+	],
+	"sing_duration": 1,
+	"scale": 1.80000000000002
+}

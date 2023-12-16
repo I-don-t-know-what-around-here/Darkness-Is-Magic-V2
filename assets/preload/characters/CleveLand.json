@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RarityRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RarityDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RarityUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RarityIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RarityLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Rarity_Pibby",
+	"position": [
+		-70,
+		15
+	],
+	"healthicon": "squad",
+	"flip_x": true,
+	"healthbar_colors": [
+		236,
+		28,
+		36
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

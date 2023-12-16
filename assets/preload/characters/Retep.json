@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				119,
+				-419
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sweetie Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				-422
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sweetie Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-362
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sweetie Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				-361
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sweetie Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-350
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sweetie Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SweetieBell_Uncorrupting",
+	"position": [
+		430,
+		45
+	],
+	"healthicon": "retepFV",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		172,
+		199
+	],
+	"camera_position": [
+		-100,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1.03
+}

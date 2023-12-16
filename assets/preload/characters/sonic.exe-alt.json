@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				122,
+				-429
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "midphaseD Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "midphaseD Up"
+		},
+		{
+			"offsets": [
+				66,
+				-410
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "midphaseD Right"
+		},
+		{
+			"offsets": [
+				253,
+				-426
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "midphaseD Left"
+		},
+		{
+			"offsets": [
+				189,
+				-430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "midphaseD Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/midphaseD",
+	"position": [
+		250,
+		-610
+	],
+	"healthicon": "ooooopixellooooo",
+	"flip_x": false,
+	"healthbar_colors": [
+		44,
+		158,
+		-2147483648
+	],
+	"camera_position": [
+		-600,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 2.6
+}

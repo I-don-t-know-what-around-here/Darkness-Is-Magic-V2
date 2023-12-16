@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				17,
+				-256
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "-Flutters_Idle"
+		},
+		{
+			"offsets": [
+				70,
+				-235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "-Flutters_Left"
+		},
+		{
+			"offsets": [
+				-26,
+				-434
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "-Fluttershy_Down"
+		},
+		{
+			"offsets": [
+				-16,
+				-268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "-Flutters_Right"
+		},
+		{
+			"offsets": [
+				-34,
+				-217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "-Flutters_UP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Corrupted_FluttershyDARK",
+	"position": [
+		-80,
+		-20
+	],
+	"healthicon": "clevelandcorruptedFV",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		50,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

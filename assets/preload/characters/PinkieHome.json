@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "-RainbowDash_Idle"
+		},
+		{
+			"offsets": [
+				-17,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "-RainbowDash_Right"
+		},
+		{
+			"offsets": [
+				-120,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "-RainbowDash_DOWN"
+		},
+		{
+			"offsets": [
+				288,
+				204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "-RainbowDash_Left"
+		},
+		{
+			"offsets": [
+				5,
+				322
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "-RainbowDash_UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RainbowDash_Pibbified",
+	"position": [
+		-100,
+		245
+	],
+	"healthicon": "peter",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		189,
+		210
+	],
+	"camera_position": [
+		40,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

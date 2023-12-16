@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Rainbow Factory Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				-208
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Rainbow Factory Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-260,
+				-300
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Rainbow Factory Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-207,
+				-59
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Rainbow Factory Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-259
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rainbow Factory Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ycr/encore/Rainbow Factory",
+	"position": [
+		0,
+		-73
+	],
+	"healthicon": "lmaowhythisdoeslooksofunny",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		170,
+		173
+	],
+	"camera_position": [
+		-50,
+		100
+	],
+	"sing_duration": 2.5,
+	"scale": 2
+}

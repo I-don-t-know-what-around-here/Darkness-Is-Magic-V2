@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AppleBloom Idle"
+		},
+		{
+			"offsets": [
+				53,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AppleBloom Right"
+		},
+		{
+			"offsets": [
+				-29,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AppleBloom Down"
+		},
+		{
+			"offsets": [
+				40,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AppleBloom Up"
+		},
+		{
+			"offsets": [
+				-24,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AppleBloom Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AppleBloom_Survivor",
+	"position": [
+		-450,
+		-20
+	],
+	"healthicon": "squad",
+	"flip_x": true,
+	"healthbar_colors": [
+		236,
+		28,
+		36
+	],
+	"camera_position": [
+		10,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

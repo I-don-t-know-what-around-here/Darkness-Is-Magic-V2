@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				431,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Survivor Applejack Left"
+		},
+		{
+			"offsets": [
+				486,
+				-182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Survivor Applejack Down"
+		},
+		{
+			"offsets": [
+				356,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Survivor Applejack Up"
+		},
+		{
+			"offsets": [
+				341,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Survivor Applejack Idle"
+		},
+		{
+			"offsets": [
+				333,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Survivor Applejack Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LamentsApplejack",
+	"position": [
+		380,
+		20
+	],
+	"healthicon": "squad",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		28,
+		36
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.65
+}

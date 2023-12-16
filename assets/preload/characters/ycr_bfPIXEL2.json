@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				211
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Scootaloo Fac Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Scootaloo Fac Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Scotaloo Fac Right"
+		},
+		{
+			"offsets": [
+				466,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Scootaloo Fac Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Scootaloo Fac Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scootaloo Factory Mid",
+	"position": [
+		-60,
+		-60
+	],
+	"healthicon": "ScootalooOld",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		194,
+		101
+	],
+	"camera_position": [
+		330,
+		-101
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

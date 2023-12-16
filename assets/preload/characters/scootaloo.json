@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-151,
+				197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Scootaloo Up"
+		},
+		{
+			"offsets": [
+				58,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Scootaloo Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				46
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Scootaloo Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Scootaloo Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Scootaloo Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scootaloo",
+	"position": [
+		-60,
+		210
+	],
+	"healthicon": "Scootaloo",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		194,
+		101
+	],
+	"camera_position": [
+		110,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

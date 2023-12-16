@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				137,
+				102
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FS Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				534,
+				190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FS Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				342,
+				565
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FS Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				261,
+				38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FS Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				293,
+				192
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FS Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FlutterBelle",
+	"position": [
+		212,
+		390
+	],
+	"healthicon": "clevelandretepFV",
+	"flip_x": false,
+	"healthbar_colors": [
+		162,
+		128,
+		179
+	],
+	"camera_position": [
+		-200,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 1.36
+}

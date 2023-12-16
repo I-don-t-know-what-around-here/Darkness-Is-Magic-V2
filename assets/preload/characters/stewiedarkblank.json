@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "stewiedark idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "stewiedark right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "stewiedark left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "stewiedark down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "stewiedark up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stewiedark",
+	"position": [
+		350,
+		230
+	],
+	"healthicon": "stewiedark",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

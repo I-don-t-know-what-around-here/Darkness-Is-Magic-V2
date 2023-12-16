@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Scootaloo Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-176,
+				164
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Scootaloo Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Scootaloo Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-261,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Scootaloo Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Scootaloo Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/Scootaloo NEW",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Scootaloo",
+	"flip_x": true,
+	"healthbar_colors": [
+		241,
+		196,
+		79
+	],
+	"camera_position": [
+		50,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

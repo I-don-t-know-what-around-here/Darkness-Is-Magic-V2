@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "briandark idle"
+		},
+		{
+			"offsets": [
+				-9,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "briandark right"
+		},
+		{
+			"offsets": [
+				-10,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "briandark down"
+		},
+		{
+			"offsets": [
+				-11,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "briandark left"
+		},
+		{
+			"offsets": [
+				-14,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "briandark up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/briandark",
+	"position": [
+		-320,
+		180
+	],
+	"healthicon": "briandark",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		40,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

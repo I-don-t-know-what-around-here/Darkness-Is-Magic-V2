@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Scoot Left"
+		},
+		{
+			"offsets": [
+				39,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Scoot Down"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Scoot Right"
+		},
+		{
+			"offsets": [
+				58,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Scoot Up"
+		},
+		{
+			"offsets": [
+				59,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Scoot Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-1
+			],
+			"anim": "enter",
+			"fps": 15,
+			"name": "JoeFv enter",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scootie_Survivor",
+	"position": [
+		300,
+		363
+	],
+	"healthicon": "JoeFv",
+	"flip_x": true,
+	"healthbar_colors": [
+		236,
+		28,
+		36
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

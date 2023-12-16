@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				892,
+				380
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Rainbow Factory Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				837,
+				216
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Rainbow Factory Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1054,
+				342
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Rainbow Factory Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				910,
+				525
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Rainbow Factory Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				937,
+				242
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rainbow Factory Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Rainbow Remade",
+	"position": [
+		835,
+		150
+	],
+	"healthicon": "lmaowhythisdoeslooksofunny",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		170,
+		173
+	],
+	"camera_position": [
+		-900,
+		-400
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

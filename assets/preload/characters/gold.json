@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-550,
+				-250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Apple Sleep Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-550,
+				-301
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Apple Sleep Left"
+		},
+		{
+			"offsets": [
+				-550,
+				-314
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Apple Sleep Right"
+		},
+		{
+			"offsets": [
+				-550,
+				-427
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Apple Sleep Down"
+		},
+		{
+			"offsets": [
+				-550,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Apple Sleep Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-497,
+				-158
+			],
+			"anim": "Epic Spawn",
+			"fps": 24,
+			"name": "Apple Sleep Epic Spawn",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Apple Sleep",
+	"position": [
+		-840,
+		-278
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		186,
+		100
+	],
+	"camera_position": [
+		-300,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 3.3
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SurvivorTwilightTeaser Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-225
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SurvivorTwilightTeaser Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-145,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "SurvivorTwilightTeaser Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-107,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "SurvivorTwilightTeaser Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "SurvivorTwilightTeaser Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SurvivorTwilightTeaser",
+	"position": [
+		-900,
+		-300
+	],
+	"healthicon": "Twilight",
+	"flip_x": true,
+	"healthbar_colors": [
+		207,
+		157,
+		227
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

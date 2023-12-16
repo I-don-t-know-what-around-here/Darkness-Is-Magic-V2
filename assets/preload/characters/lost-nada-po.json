@@ -2,14 +2,14 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
+				-7,
 				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Fluttershy_Dancy_Dance"
+			"name": "BF idle dance"
 		},
 		{
 			"offsets": [
@@ -134,39 +134,6 @@
 		},
 		{
 			"offsets": [
-				37,
-				11
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
-		},
-		{
-			"offsets": [
-				37,
-				5
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
-			"offsets": [
-				37,
-				69
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
 				-10,
 				-16
 			],
@@ -200,21 +167,21 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/nada",
 	"position": [
-		0,
-		350
+		100,
+		60
 	],
-	"healthicon": "bf",
+	"healthicon": "gold",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		251,
+		186,
+		100
 	],
 	"camera_position": [
-		0,
-		0
+		-40,
+		80
 	],
 	"sing_duration": 4,
 	"scale": 1

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Corrupted Twilight Right"
+		},
+		{
+			"offsets": [
+				287,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Corrupted Twilight Left"
+		},
+		{
+			"offsets": [
+				-90,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Corrupted Twilight Down"
+		},
+		{
+			"offsets": [
+				-122,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Corrupted Twilight Up"
+		},
+		{
+			"offsets": [
+				-39,
+				85
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Corrupted Twilight Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LamentsTwilight",
+	"position": [
+		550,
+		30
+	],
+	"healthicon": "twilightcrazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		127,
+		206
+	],
+	"camera_position": [
+		-300,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.58
+}

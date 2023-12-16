@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-265,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Laments Pinkie Left"
+		},
+		{
+			"offsets": [
+				-393,
+				-339
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Laments Pinkie Down"
+		},
+		{
+			"offsets": [
+				-393,
+				-248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Laments Pinkie Up"
+		},
+		{
+			"offsets": [
+				-400,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Laments Pinkie Idle"
+		},
+		{
+			"offsets": [
+				-362,
+				-268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Laments Pinkie Right"
+		},
+		{
+			"offsets": [
+				-370,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "grab",
+			"indices": [],
+			"name": "Laments Pinkie Grab"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LamentsPinkie",
+	"position": [
+		-240,
+		-100
+	],
+	"healthicon": "squad",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		197
+	],
+	"camera_position": [
+		-370,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 1.71
+}

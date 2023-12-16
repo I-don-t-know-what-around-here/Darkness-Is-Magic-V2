@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				260
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AppleJack Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				275
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AppleJack Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				259
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AppleJack Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				293
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AppleJack Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				253
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AppleJack Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AppleJack_Sprites",
+	"position": [
+		-40,
+		438
+	],
+	"healthicon": "AJPISSED",
+	"flip_x": true,
+	"healthbar_colors": [
+		246,
+		184,
+		96
+	],
+	"camera_position": [
+		140,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

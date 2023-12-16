@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-289,
+				580
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Molestia Far Sun Dance Left"
+		},
+		{
+			"offsets": [
+				-340,
+				580
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Molestia Far Sun Dance Right"
+		},
+		{
+			"offsets": [
+				910,
+				880
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "approach",
+			"indices": [],
+			"name": "Molestia Far Gotcha"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Molestia Far",
+	"position": [
+		30,
+		600
+	],
+	"healthicon": "ifu",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-150,
+		70
+	],
+	"sing_duration": 30,
+	"scale": 1.5
+}

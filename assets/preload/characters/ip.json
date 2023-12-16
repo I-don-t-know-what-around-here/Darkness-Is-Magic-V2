@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-700,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DashEXE Idle"
+		},
+		{
+			"offsets": [
+				-589,
+				-407
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DashEXE Left"
+		},
+		{
+			"offsets": [
+				-702,
+				-406
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DashEXE Down"
+		},
+		{
+			"offsets": [
+				-703,
+				-293
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DashEXE Up"
+		},
+		{
+			"offsets": [
+				-702,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DashEXE Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rainbow Dash EXE",
+	"position": [
+		-600,
+		-300
+	],
+	"healthicon": "dashexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		81,
+		138,
+		157
+	],
+	"camera_position": [
+		193,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 3.2
+}

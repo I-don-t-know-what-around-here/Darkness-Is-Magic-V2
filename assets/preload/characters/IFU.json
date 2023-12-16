@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-36,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Molestia Left"
+		},
+		{
+			"offsets": [
+				240,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Molestia Down"
+		},
+		{
+			"offsets": [
+				-260,
+				550
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Molestia Up"
+		},
+		{
+			"offsets": [
+				-3070,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Molestia Right"
+		},
+		{
+			"offsets": [
+				-170,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Molestia Idle Left"
+		},
+		{
+			"offsets": [
+				-274,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Molestia Idle Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "rise",
+			"indices": [],
+			"name": "IFU rise"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Trollestia",
+	"position": [
+		-1100,
+		250
+	],
+	"healthicon": "ifu",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-540,
+		-710
+	],
+	"sing_duration": 6.1,
+	"scale": 3.3
+}

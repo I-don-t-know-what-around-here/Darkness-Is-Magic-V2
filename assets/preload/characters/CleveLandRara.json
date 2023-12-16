@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Survivor Rarity Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-158
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Survivor Rarity Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Survivor Rarity Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Survivor Rarity Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				98
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Survivor Rarity Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Survivor Rarity Laments",
+	"position": [
+		960,
+		470
+	],
+	"healthicon": "squad",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		28,
+		36
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
