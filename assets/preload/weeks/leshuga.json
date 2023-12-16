@@ -1,0 +1,32 @@
+{
+	"storyName": "I know I'm faster than you",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "part1",
+	"freeplayColor": [
+		75,
+		127,
+		182
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		
+		[
+			"Welcome Home",
+			"brianrooten",
+			[
+				158,
+				219,
+				248
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

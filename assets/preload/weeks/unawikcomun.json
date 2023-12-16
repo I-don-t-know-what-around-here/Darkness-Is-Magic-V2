@@ -1,0 +1,32 @@
+{
+	"storyName": "There there... Everything's going to be okay",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "part2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		
+		[
+			"Small Beacon of Hope",
+			"clevelandcorruptedFV",
+			[
+				253,
+				240,
+				150
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

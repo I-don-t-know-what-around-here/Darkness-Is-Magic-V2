@@ -1,0 +1,31 @@
+{
+	"storyName": "VS Dash",
+	"difficulties": "Leaked",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		81,
+		138,
+		157
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ip",
+			"dashexe",
+			[
+				81,
+				138,
+				157
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Rainbows"
+}

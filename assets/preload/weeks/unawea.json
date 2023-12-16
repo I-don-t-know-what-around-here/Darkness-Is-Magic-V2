@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Equestria Laments", "twilightcrazy", [34, 51, 68]]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "part4",
+
+	"storyName": "I'm sorry. It's all my fault.",
+	"difficulties": "Hard",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
